@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editor_map">
+        <item>Start position</item>
+        <item>End position</item>
+        <item>Obstacle</item>
+        <item>Trap</item>
+        <item>Delete object</item>
+        <item>Delete all objects</item>
+    </string-array>
+</resources>
